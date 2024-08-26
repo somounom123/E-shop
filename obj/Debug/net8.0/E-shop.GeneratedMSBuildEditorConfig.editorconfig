@@ -18,6 +18,26 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = c:\Asia_Euro\Year4\M1\E-commerce\E-shop
 build_property._RazorSourceGeneratorDebug = 
 
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Blog-details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZy1kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Blog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,12 +46,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcbG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Shop-details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC1kZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/Shopping-cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hvcHBpbmctY2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [c:/Asia_Euro/Year4/M1/E-commerce/E-shop/Pages/_ViewImports.cshtml]

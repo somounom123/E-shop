@@ -1,12 +1,92 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|c:\\asia_euro\\year4\\m1\\e-commerce\\e-shop\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|c:\\asia_euro\\year4\\m1\\e-commerce\\e-shop\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|solutionrelative:pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|c:\\asia_euro\\year4\\m1\\e-commerce\\e-shop\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|c:\\asia_euro\\year4\\m1\\e-commerce\\e-shop\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC828B22-596E-4EDF-9AAF-A4B7EC366D24}|E-shop.csproj|solutionrelative:pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:59:29.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cshtml.cs",
+              "DocumentMoniker": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\login.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\login.cshtml.cs",
+              "ToolTip": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\login.cshtml.cs",
+              "RelativeToolTip": "Pages\\login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T02:59:27.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.cshtml",
+              "DocumentMoniker": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\login.cshtml",
+              "RelativeDocumentMoniker": "Pages\\login.cshtml",
+              "ToolTip": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\login.cshtml",
+              "RelativeToolTip": "Pages\\login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T02:58:44.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Asia_Euro\\Year4\\M1\\E-commerce\\E-shop\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAGcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T02:57:43.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
